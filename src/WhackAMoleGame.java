@@ -1,9 +1,9 @@
 /************************
-* Project: WhackAMole
+* Project: WhackAMoleGame
 * File: WhackAMole.java
 * Author: Jacob Clark
 * Date: 12/3/2025
-* Description: This program is a simple game of WhackAMole.
+* Description: This program is a simple game of Whack-A-Mole.
 ***********************************************************/
 
 public class WhackAMole {
@@ -68,4 +68,5 @@ public class WhackAMole {
     //Main method
     public static void main(String[] args) {
     }
+
 }
