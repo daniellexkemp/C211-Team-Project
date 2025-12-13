@@ -1,5 +1,5 @@
 /******************************************************
- * Project: WhackAMole Game
+ * Project: WhackAMoleGame
  * Author: Nathan Johnson
  * Date: December 2, 2025
  * Purpose: Maintains a 2D board for Whack-A-Mole.
@@ -66,4 +66,5 @@ public class GameBoard {
         return false;
     }
 }
+
 
